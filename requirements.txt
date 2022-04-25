@@ -1,4 +1,7 @@
-# node
-# nodemon
+# node v16.13.2
+
+# nodemon 2.0.7
+
 # express
+
 # mongoose
